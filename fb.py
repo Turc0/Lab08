@@ -17,7 +17,7 @@ userPassword = input("Hello! Please enter your facebook password! ")
 #the message wrong credentials, try again! is reported.
 
 
-if(userName.lower() == "angturano" and userPassword == "pa55w0rd"):
+if(userName.lower() == "angt" and userPassword == "pa55w0rd"):
     print("Welcome to facebook!")
 else:
     print("Wrong credentials, try again!")
